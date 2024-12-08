@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <fcntl.h>
 #include <unistd.h>
-#include <malloc/malloc.h>
+#include <malloc.h>
 
 // Structures
 // ==================================================================
